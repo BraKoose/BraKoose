@@ -1,5 +1,5 @@
 # 💫 About Me:
-Founder of Trotro Live | Passionate about enhancing peaceful commutes in Ghana trotros 🚍<br> | Collaborating with a diverse open contributors of 16 talented individuals in UX, UI, Frontend, Backend, Mobile Dev, and Cloud Dev |<br> Mentored by Stephen Fox, VTT, Finland, GDG Accra, and friends of the Global Startup Ecosystem | ALX Africa SE Course participant, dedicating 70 hours per week for 1 year to upskill and scale this project | Open to new connections and opportunities!
+Founder of Trotro Live | Passionate about enhancing peaceful commutes in Ghana trotros 🚍<br>  Collaborating with diverse open contributors of 16 talented individuals in UX, UI, Frontend, Backend, Mobile Dev, and Cloud Dev <br> Mentored by Stephen Fox, VTT, Finland, GDG Accra, and friends of the Global Startup Ecosystem | ALX Africa SE Course participant, dedicating 70 hours per week for 1 year to upskill and scale this project | Open to new connections and opportunities!
 
 
 ## 🌐 Socials:
